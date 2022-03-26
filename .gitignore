@@ -130,3 +130,7 @@ dmypy.json
 
 # Others
 .DS_Store
+CommitInstructions.txt
+ProblemsNotebookToPDFs.py
+ProcessNotebook.py
+ProcessNotebooks.py
