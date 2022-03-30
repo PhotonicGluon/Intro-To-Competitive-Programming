@@ -5,7 +5,7 @@ Jupyter Notebooks for teaching Competitive Programming simply.
 
 Click "launch binder" above to launch the exercises in Binder, a read-only environment for Jupyter Notebooks. This means that your **progress will be erased when the browser tab is closed**. Download the notebook files you wish to keep: right-click on the file and click "Download". Alternatively, follow **Method 2** below to install Python on your local machine and learn from there.
 
-Content of this course is largely adapted from [Sololearn's Python Core](https://www.sololearn.com/learning/1073) course. However, exercises, discussions and assignments in the notebooks are authored by me.
+Content of this course is largely adapted from Steven and Felix Halim's excellent book "Competitive Programming 3".
 
 ## How to access the notebooks properly
 ### Method 1. Using Binder
