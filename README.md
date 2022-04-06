@@ -10,6 +10,7 @@ Content of this course is largely adapted from Steven and Felix Halim's excellen
 ## How to access the notebooks properly
 ### Method 1. Using Binder
 1. Click "launch binder" above.
+
 2. Wait for the binder instance to start. If you see a message `Too many users on this BinderHub! Try again soon.`, try to reload the page after a bit.
 
 ![](./Images/starting-binder.jpg)
@@ -18,21 +19,25 @@ Content of this course is largely adapted from Steven and Felix Halim's excellen
 
 ![](./Images/binder-main-page.jpg)
 
-4. Inside the `Course Files` folder, there are subfolders of the chapters of the course. Each subfolder will (at least) contain:
-    - A solution notebook
-    - An *empty* notebook (i.e. with no solutions)
-Double click on the notebook to open it.
+4. Inside the `Course Files` folder, there are subfolders of the modules of the course. Each subfolder will (at least) contain:
+    - One notebook for the content
+    - One notebook for the problems relating to the content in the first notebook
+    - One directory for the PDF documents of the problems
+    - One directory for the solutions to the problems 
+
+Double click on a notebook to open it.
+
 5. After selecting the python interpreter (`Python 3 (ipykernel)`), you can use the toolbar to run cells.
 
 ![](./Images/toolbar-example.jpg)
 
 ### Method 2. Using Jupyter Notebook Locally
-First you'll need to install Python. This course uses Python 3 (more specifically Python 3.6 and above), so you'll need to install that first. Python 3 can be downloaded from [Python.org](https://www.python.org/downloads/).
-- Choose the Python 3 version that suits you. This course assumes that the Python 3 version chosen is 3.6 and above.
+First you'll need to install Python. This course uses Python 3 (more specifically Python 3.8 and above), so you'll need to install that first. Python 3 can be downloaded from [Python.org](https://www.python.org/downloads/).
+- Choose the Python 3 version that suits you. This course assumes that the Python 3 version chosen is 3.8 and above.
 
-Next [download this repository](https://github.com/Oxyhydride/Python-Core/archive/refs/heads/main.zip) and unzip it. A folder named `Python-Core-main` should be obtained.
+Next [download this repository](https://github.com/Oxyhydride/Intro-To-Competitive-Programming/archive/refs/heads/main.zip) and unzip it. A folder named `Intro-To-Competitive-Programming-main` should be obtained.
 
-Now open up the **Command Prompt** (on Windows) or **Terminal** (for Unix) and navigate to the `Python-Core-main` folder. You can do that by running
+Now open up the **Command Prompt** (on Windows) or **Terminal** (for Unix) and navigate to the `Intro-To-Competitive-Programming-main` folder. You can do that by running
 ```bash
 cd [ENTER_THE_PATH_TO_THE_FOLDER_HERE]
 ```
