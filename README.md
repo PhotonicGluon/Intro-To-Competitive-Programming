@@ -35,7 +35,7 @@ Double click on a notebook to open it.
 First you'll need to install Python. This course uses Python 3 (more specifically Python 3.8 and above), so you'll need to install that first. Python 3 can be downloaded from [Python.org](https://www.python.org/downloads/).
 - Choose the Python 3 version that suits you. This course assumes that the Python 3 version chosen is 3.8 and above.
 
-Next [download this repository](https://github.com/Oxyhydride/Intro-To-Competitive-Programming/archive/refs/heads/main.zip) and unzip it. A folder named `Intro-To-Competitive-Programming-main` should be obtained.
+Next [download this repository](https://github.com/PhotonicGluon/Intro-To-Competitive-Programming/archive/refs/heads/main.zip) and unzip it. A folder named `Intro-To-Competitive-Programming-main` should be obtained.
 
 Now open up the **Command Prompt** (on Windows) or **Terminal** (for Unix) and navigate to the `Intro-To-Competitive-Programming-main` folder. You can do that by running
 ```bash
