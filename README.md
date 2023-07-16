@@ -75,11 +75,11 @@ jupyter notebook
 ```
 
 ## License
-This repository is licensed under the MIT license. The full license agreement can be found in the `LICENSE` file. A copy of its contents is reproduced here.
+This repository is licensed under the MIT license. The full license agreement can be found in the [`LICENSE`](LICENSE) file. A copy of its contents is reproduced here.
 ```
 MIT License
 
-Copyright (c) 2022 Oxyhydride
+Copyright (c) 2022 Oxyhydride, 2023 PhotonicGluon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
